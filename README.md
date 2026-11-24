@@ -38,4 +38,12 @@ This project presents an interactive, two-page Microsoft Power BI financial anal
 
 ---
 
+## Download the Power BI Project
+
+The original two-page Microsoft Power BI report is available for technical review.
+
+**[Download the Power BI Project (.pbix)](Financial-Executive-PowerBI-Dashboard.pbix)**
+
+Open the downloaded file using Microsoft Power BI Desktop to explore the report pages, financial KPIs, visualizations, and underlying report structure.
+
 *Developed by Emmanuel Ottoh | Data Analyst & BI Developer*
