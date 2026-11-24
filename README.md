@@ -46,4 +46,6 @@ The original two-page Microsoft Power BI report is available for technical revie
 
 Open the downloaded file using Microsoft Power BI Desktop to explore the report pages, financial KPIs, visualizations, and underlying report structure.
 
+---
+
 *Developed by Emmanuel Ottoh | Data Analyst & BI Developer*
